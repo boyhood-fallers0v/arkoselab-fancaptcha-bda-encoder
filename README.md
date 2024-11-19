@@ -1,1 +1,1 @@
-# arkoselab-fancaptcha-bda-encoder
+# Arkoselab Fancaptcha BDA encoder
